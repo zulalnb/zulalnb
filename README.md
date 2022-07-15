@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zülal</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **zllnbn1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
