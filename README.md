@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zülal</h1>
 <h3 align="center">A passionate front-end developer turning designs into reality.</h3>
 
-- 📝 I regularly write articles on [tio](https://tio.ist/blog/author/zulal/)
-
 - 📫 How to reach me **zllnbn1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
