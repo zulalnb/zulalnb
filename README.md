@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zülal</h1>
-<h3 align="center">A passionate front-end developer turning designs into reality.</h3>
+<h3 align="center">A front-end developer focused on turning thoughtful designs into usable, real-world interfaces - built to last, not just to look good.</h3>
 
 - 📫 How to reach me **zllnbn1997@gmail.com**
 
