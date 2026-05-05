@@ -22,7 +22,7 @@ A front-end developer focused on turning thoughtful designs into usable, real-wo
 ---
 
 ### 🧠 State, Data & Platforms
-[![Data Skills](https://skillicons.dev/icons?i=redux,graphql,electron)](https://skillicons.dev)
+[![Data Skills](https://skillicons.dev/icons?i=redux,graphql,electron,apollo)](https://skillicons.dev)
 
 <!-- <p><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://graphql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a> <a href="https://www.gatsbyjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="40" height="40"/></a> <a href="https://reactnative.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://expo.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="expo" width="40" height="40"/></a></p> -->
 
